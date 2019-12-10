@@ -1,0 +1,21 @@
+{
+    "request_code": 200,
+    "result_code": 4,
+    "banner_list": [
+        {
+            "banner_id": 1,
+            "banner_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner1.jpg?alt=media&token=2fb5b041-ed79-452d-b39d-293118b10525",
+            "banner_description": "Rajin Menabung Pohon Pangkal Kaya + Bonus Alam Lestari. AYO #NabungPohon"
+        },
+        {
+            "banner_id": 2,
+            "banner_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner2.jpg?alt=media&token=2be02183-7c16-43af-a2e9-31517c8ade89",
+            "banner_description": "Setiap Yang Kita Tanam Akan Kita Tuai Hasilnya. #NabungPohon Sekarang"
+        },
+        {
+            "banner_id": 3,
+            "banner_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner3.jpg?alt=media&token=260f697e-5d37-42f1-9113-7e3a404a9f2e",
+            "banner_description": "Hutan Lestari, Anak Cucu Terjamin. AYO #NabungPohon"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+	"result_code": 4,
+	"request_code": 200,
+	"company_data": {
+    "company_email": "naponindonesia@gmail.com",
+    "company_phone": "+628112828088",
+    "company_website": "www.napon.id",
+    "company_address": "Ungaran"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "request_code": 200,
+  "result_code": 4,
+  "notification_list": [
+    {
+      "notification_id": "324rxAujHsPocpa6",
+      "notification_status": 0,
+      "notification_title": "Tabungan akarku",
+      "notification_subtitle": "Hore! pohon sengon anda berhasil dipanen, cek saldo anda sekarang",
+      "notification_content": "Hore! pohon sengon anda berhasil dipanen, cek saldo anda sekarang",
+      "notification_time": "2019-05-3 13:01:46"
+    },
+    {
+      "notification_id": "324rxAujHsPocpa6",
+      "notification_status": 0,
+      "notification_title": "Tabungan akarku",
+      "notification_subtitle": "Pohon sengon anda bertumbuh! pantau terus sengon anda melalui menu sengonku",
+      "notification_content": "Pohon sengon anda bertumbuh! pantau terus sengon anda melalui menu sengonku",
+      "notification_time": "2014-11-3 13:01:46"
+    },
+    {
+      "notification_id": "324rxAujHsPocpa6",
+      "notification_status": 1,
+      "notification_title": "Tabungan akarku",
+      "notification_subtitle": "Bibit sengon sudah kami tanam, pantau terus sengon anda melalui menu sengonku",
+      "notification_content": "Bibit sengon sudah kami tanam, pantau terus sengon anda melalui menu sengonku",
+      "notification_time": "2014-05-3 13:01:46"
+    },
+    {
+      "notification_id": "uWXptuUguaQTRUau",
+      "notification_status": 1,
+      "notification_title": "Tabungan akarku",
+      "notification_subtitle": "Pembayaran anda sudah kami terima, kami akan segera memproses bibit sengon anda",
+      "notification_content": "Pembayaran anda sudah kami terima, kami akan segera memproses bibit sengon anda",
+      "notification_time": "2014-05-2 13:01:46"
+    },
+    {
+      "notification_id": "xhs3cTJPapRwVA7L",
+      "notification_status": 1,
+      "notification_title": "Tabungan akarku",
+      "notification_subtitle": "Terimakasih sudah memilih akarku sebagai tabungan anda, status tabungan menunggu pembayaran",
+      "notification_content": "Terimakasih sudah memilih akarku sebagai tabungan anda, status tabungan menunggu pembayaran",
+      "notification_time": "2014-05-1 13:01:46"
+    }
+  ]
+}

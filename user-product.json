@@ -1,0 +1,187 @@
+{
+  "result_code": 4,
+  "request_code": 200,
+  "user_product_list": [
+    {
+      "user_product_key": "q1XPthPDRceGSmQE",
+      "product": {
+        "product_name": "Daunku",
+        "product_image_black": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/daunku-black.png?alt=media&token=d31af1a7-c520-44a1-b059-f481b8528820"
+      },
+      "user_product_start_date": "2019-06-6 13:01:46",
+      "location": null,
+      "user_product_sertificate": null,
+      "user_product_status": "0",
+      "report_list": []
+    },
+    {
+      "user_product_key": "q1XPthPDRceGSmQE",
+      "product": {
+        "product_name": "Rantingku",
+        "product_image_black": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/rantingku-black.png?alt=media&token=3f1fab59-237c-44c3-8d98-a0fbee379555"
+      },
+      "user_product_start_date": "2019-06-4 13:01:46",
+      "location": {
+        "location_name": "Ungaran",
+        "latitude": "-7.1335614",
+        "longitude": "110.395965"
+      },
+      "user_product_sertificate": null,
+      "user_product_status": "0",
+      "report_list": []
+    },
+    {
+      "user_product_key": "LQE4DXFUMQFqEavl",
+      "product": {
+        "product_name": "Batangku",
+        "product_image_black": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/batangku-black.png?alt=media&token=8195f738-e2f5-44e1-a356-e0b1bc77cb59"
+      },
+      "user_product_start_date": "2019-06-2 13:01:46",
+      "location": {
+        "location_name": "Ungaran",
+        "latitude": "-7.1335614",
+        "longitude": "110.395965"
+      },
+      "user_product_sertificate": null,
+      "user_product_status": "0",
+      "report_list": []
+    },
+    {
+      "user_product_key": "l5Vr959euTEIs9RA",
+      "product": {
+        "product_name": "Akarku",
+        "product_image_black": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/akarku-black.png?alt=media&token=f960d74c-c0c2-41e5-861e-0349f4ec34ac"
+      },
+      "user_product_start_date": "2014-05-2 13:01:46",
+      "location": {
+        "location_name": "Ungaran",
+        "latitude": "-7.1335614",
+        "longitude": "110.395965"
+      },
+      "user_product_sertificate": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/daunku-black.png?alt=media&token=d31af1a7-c520-44a1-b059-f481b8528820",
+      "user_product_status": "1",
+      "report_list": [
+        {
+          "report_key": "O4NAg4LrnHiYlLhz",
+          "report_period": "Periode 10",
+          "report_start_date": "2018-11-2",
+          "report_end_date": "2019-05-2",
+          "report_tree_height": "18",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "ybVPjO8bVqK5R4Tw",
+          "report_period": "Periode 9",
+          "report_start_date": "2018-05-2",
+          "report_end_date": "2018-11-2",
+          "report_tree_height": "16",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "6XmUVdyUlsoZ5Az7",
+          "report_period": "Periode 8",
+          "report_start_date": "2017-11-2",
+          "report_end_date": "2018-05-2",
+          "report_tree_height": "14",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "qwbz43apNU6ZFOpX",
+          "report_period": "Periode 7",
+          "report_start_date": "2017-05-2",
+          "report_end_date": "2017-11-2",
+          "report_tree_height": "12",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "0ZXGY44xBdKcPF8Z",
+          "report_period": "Periode 6",
+          "report_start_date": "2016-11-2",
+          "report_end_date": "2017-05-2",
+          "report_tree_height": "11",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "ZN0FfSdngjjF0trX",
+          "report_period": "Periode 5",
+          "report_start_date": "2016-05-2",
+          "report_end_date": "2016-11-2",
+          "report_tree_height": "9",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "a9RDFKNRjHuBTAnR",
+          "report_period": "Periode 4",
+          "report_start_date": "2015-11-2",
+          "report_end_date": "2016-05-2",
+          "report_tree_height": "7",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "TtYJxdJZSxke2N4g",
+          "report_period": "Periode 3",
+          "report_start_date": "2015-05-2",
+          "report_end_date": "2015-11-2",
+          "report_tree_height": "5",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "2KDsvOcVNArcxGsX",
+          "report_period": "Periode 2",
+          "report_start_date": "2014-11-2",
+          "report_end_date": "2015-05-2",
+          "report_tree_height": "3",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        },
+        {
+          "report_key": "9ZEQzhsvPwrycRYj",
+          "report_period": "Periode 1",
+          "report_start_date": "2014-05-2",
+          "report_end_date": "2014-11-2",
+          "report_tree_height": "1",
+          "report_tree_diameter": "0.5",
+          "report_tree_state": "Aman terkendali",
+          "report_weather": "Cerah",
+          "report_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/report.jpg?alt=media&token=af359b15-9bb4-48d6-811d-3a88dd220b38",
+          "report_video": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"
+        }
+      ]
+    }
+  ]
+}

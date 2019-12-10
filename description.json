@@ -1,0 +1,31 @@
+{
+    "result_code": 4,
+    "request_code": 200,
+    "description_list": [
+        {
+            "description_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/registrasi.png?alt=media&token=6d89143d-3397-4a96-9273-71b9deb8692f",
+            "description_title": "Registrasi",
+            "description_text": "Anda dapat mendaftar pada platform Napon.ID melalui Website atau Aplikasi."
+        },
+        {
+            "description_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/danai.png?alt=media&token=0916b124-aa30-4249-a4b8-4b3e5d3999f9",
+            "description_title": "Menabung",
+            "description_text": "Anda dapat memulai menabung pohon melalui platform kami setelah melakukan verifikasi alamat email."
+        },
+        {
+            "description_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/budidaya.png?alt=media&token=7f6e1ecc-f192-48f6-ace7-bec3c03a0d43",
+            "description_title": "Bercocok tanam",
+            "description_text": "Napon.ID bersama mitra petani menjalankan proyek budidaya dengan dana yang Anda tabung."
+        },
+        {
+            "description_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/panen.png?alt=media&token=86fef943-366d-4e14-8932-d56c10b0a1df",
+            "description_title": "Panen",
+            "description_text": "Napon.ID bersama mitra petani menjual hasil budidaya ketika musim panen telah tiba."
+        },
+        {
+            "description_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/bagi-hasil.png?alt=media&token=d0b378ae-0c26-41bf-9754-9c438cbed5cc",
+            "description_title": "Bagi hasil",
+            "description_text": "Setelah panen selesai, Anda dapat menikmati keuntungan dari bagi hasil dengan dana yang Anda tabung."
+        }
+    ]
+}

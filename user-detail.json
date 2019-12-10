@@ -1,0 +1,32 @@
+{
+  "request_code": 200,
+  "data": {
+      "user_name": "tester satu",
+      "user_email": "testersatu@gmail.com",
+      "user_image": null,
+      "user_birth_date": "1995-05-01",
+      "user_sex": "Laki-Laki",
+      "user_phone": "082154513797",
+      "user_address": "Jl Seturan 1 No.239",
+      "user_city": "KABUPATEN GUNUNG KIDUL",
+      "user_state": "DI YOGYAKARTA",
+      "user_zip_code": "55281",
+      "user_id_number": "1234123412341238",
+      "user_id_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/ktp.png?alt=media&token=901c9960-8909-47cb-8889-aad4955670cb",
+      "user_total_tree": 86,
+      "user_join_date": "2019-06-02 03:52:47",
+      "user_balance": 500000,
+      "user_total_investment": 25800000,
+      "user_email_verified": true,
+      "user_banks": [
+          {
+              "user_bank_id": "ZiLqplqh5fv1Mtm0",
+              "user_bank_name": "BNI",
+              "user_bank_account_name": "tester satu",
+              "user_bank_account_number": "1234567890"
+          }
+      ],
+      "user_data_filled": true
+  },
+  "result_code": 4
+}

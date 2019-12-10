@@ -1,0 +1,27 @@
+{
+  "result_code": 4,
+  "request_code": 200,
+  "top_up_list": [
+    {
+      "top_up_id": "xhs3cTJPapRwVA7L",
+      "top_up_date": "2019-06-8 13:01:46",
+      "top_up_status": 1,
+      "top_up_amount": 400000,
+      "top_up_va_number": 1234567890
+    },
+    {
+      "top_up_id": "xhs3aefaafecfawf",
+      "top_up_date": "2019-06-8 13:01:46",
+      "top_up_status": 2,
+      "top_up_amount": 500000,
+      "top_up_va_number": 1234567890
+    },
+    {
+      "top_up_id": "xhs3aefaafecfawf",
+      "top_up_date": "2019-06-8 13:01:46",
+      "top_up_status": 3,
+      "top_up_amount": 600000,
+      "top_up_va_number": 1234567890
+    }
+  ]
+}

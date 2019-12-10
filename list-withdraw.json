@@ -1,0 +1,24 @@
+{
+  "result_code": 4,
+  "request_code": 200,
+  "withdraw_list": [
+    {
+      "withdraw_id": "xhs3cTJPapRwVA7L",
+      "withdraw_date": "2019-06-8 13:01:46",
+      "withdraw_status": 1,
+      "withdraw_amount": 400000
+    },
+    {
+      "withdraw_id": "xhs3aefaafecfawf",
+      "withdraw_date": "2019-06-8 13:01:46",
+      "withdraw_status": 2,
+      "withdraw_amount": 500000
+    },
+    {
+      "withdraw_id": "awf3aefaafecfawf",
+      "withdraw_date": "2019-06-8 13:01:46",
+      "withdraw_status": 3,
+      "withdraw_amount": 600000
+    }
+  ]
+}
