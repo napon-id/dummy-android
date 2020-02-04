@@ -3,19 +3,19 @@
 	"result_code": 4,
 	"promo_list": [
 		{
-			"title": "Promo 1",
-			"image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner1.jpg?alt=media&token=2fb5b041-ed79-452d-b39d-293118b10525",
-			"url": "http://google.com/search?q=promo1"
+			"promo_title": "Promo 1",
+			"promo_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner1.jpg?alt=media&token=2fb5b041-ed79-452d-b39d-293118b10525",
+			"promo_url": "http://google.com/search?q=promo1"
 		},
 		{
-			"title": "Promo 2",
-			"image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner2.jpg?alt=media&token=2be02183-7c16-43af-a2e9-31517c8ade89",
-			"url": "http://google.com/search?q=promo2"
+			"promo_title": "Promo 2",
+			"promo_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner2.jpg?alt=media&token=2be02183-7c16-43af-a2e9-31517c8ade89",
+			"promo_url": "http://google.com/search?q=promo2"
 		},
 		{
-			"title": "Promo 3",
-			"image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner3.jpg?alt=media&token=260f697e-5d37-42f1-9113-7e3a404a9f2e",
-			"url": "http://google.com/search?q=promo3"
+			"promo_title": "Promo 3",
+			"promo_image": "https://firebasestorage.googleapis.com/v0/b/napon-aa5b7.appspot.com/o/banner3.jpg?alt=media&token=260f697e-5d37-42f1-9113-7e3a404a9f2e",
+			"promo_url": "http://google.com/search?q=promo3"
 		}
 	]
 }
